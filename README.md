@@ -1,12 +1,12 @@
 # CPX400DP_API
-Python class to connect a CPX400DP power supply to the PC with the USB cable
+Python class to connect a CPX400DP power supply to the PC with the USB cable<br/>
 
-PIP link : https://pypi.org/project/CPX400/0.0.1/
-To install : 
->pip install CPX400==0.0.1
+PIP link : https://pypi.org/project/CPX400/0.0.1/<br/>
+To install : <br/>
+>pip install CPX400
 
 -----------------
-
+Example of use : </br>
 ```python
 from CPX400DP import *
  
